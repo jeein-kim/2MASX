@@ -7,3 +7,4 @@ Gemini/GMOS (GN-2025B-FT-201) longslit spectroscopy data fitting result via **as
 **"2MASX/auto"**: fitting procedure
 
 **"2MASX/result"**: fitting results 
+[longslit.pdf](https://github.com/user-attachments/files/24023447/longslit.pdf)
