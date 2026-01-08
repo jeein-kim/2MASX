@@ -1,0 +1,4 @@
+,amp,amp_err,wave_center,wave_center_err,sigma,sigma_err,fitted_wave_min,fitted_wave_max,apert_name,flux_W_m2,flux_err_W_m2,line_name
+0,7.74E-17,4.13E-18,498.1518576,0.003441032,0.047503619,0.002281516,496,506,A,9.22E-18,6.62E-19,Fe II 4923 doublet
+1,1.34E-16,5.61E-18,498.4765404,0.001668216,0.047503619,0,496,506,A,1.60E-17,6.69E-19,Fe II 4923 doublet
+2,3.73E-17,2.27E-18,506.810236,0.013019,0.185096,0.013019,500,509,A,1.73E-17,1.61E-18,[O III] 5007
