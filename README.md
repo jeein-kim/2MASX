@@ -19,6 +19,8 @@ Gemini/GMOS (GN-2025B-FT-201) longslit spectroscopy data fitting result via **as
 
 
 
+Emission lines fitting utilized by [_pyspeckit_](https://pyspeckit.readthedocs.io/en/latest/parameters.html).
+
 
 ---
 
